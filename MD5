@@ -1,7 +1,7 @@
-8af18bc7327581a6a23f21218c1fe3dc *DESCRIPTION
+949feb991e9459f47bf58193c4cd54aa *DESCRIPTION
 59fd8bff1fb58fc1c6d585a95101f591 *NAMESPACE
-f08db7b2b5fe3a04b8677d49d7141c14 *NEWS.md
-e3a40785fcc5143b5e48e75f1ad5976c *R/file_merge.R
+958e103a3a8e117c401be5009017648f *NEWS.md
+c5842c5f3c9b7812b3ef1a5db85ec992 *R/file_merge.R
 a999e2a4c8f9c6d330d294bbcdc35a3c *R/hybrid_recursive_mc.R
 920e3d3f178ffdbd9eb598de77075599 *R/modified_recursive_mc.R
 16b139b2849d47b62b9850e711920bfa *R/non_recursive_mc.R
@@ -9,7 +9,7 @@ b75974bae2e8cfc768cce9a78dbcffd0 *R/prep.R
 ae39c37cd9808331b1d4e5e42cfca95a *R/read_data.R
 3f6d7c38aac3017142ecf6c91bc91f66 *R/stroopdata.R
 87ddedb9e990f53ae79a4526ed47585d *R/sysdata.rda
-0fe9dc79cca6b353aeb63dde20743914 *README.md
+d77a8b27ea777b489c97b5ee99da462f *README.md
 bdd872ea37e319edd6bf2e20e95aed14 *data/stroopdata.rda
 6ad13ad15366da5447233c2adeadeadf *man/file_merge.Rd
 190bcb94a314ceb42d6c1fce487cba4d *man/hybrid_recursive_mc.Rd
