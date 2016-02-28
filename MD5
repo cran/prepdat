@@ -1,11 +1,11 @@
-c8ade79cdb132c7fc332e2d5880d157a *DESCRIPTION
+f767ac93fdf792592fd8a603a5cac639 *DESCRIPTION
 da1e22e323ed641f57714b4e2835de54 *NAMESPACE
-461084e1684db17c599cc90caa63a6a9 *NEWS.md
-c5842c5f3c9b7812b3ef1a5db85ec992 *R/file_merge.R
+cd286a19ba3a5bc568e1d13cce5a304c *NEWS.md
+0248f9b327617419fdb6b323a4889728 *R/file_merge.R
 da8625d916429b5411dd5cba9f8c71a0 *R/hybrid_recursive_mc.R
 d9a6ea1f200fbf20eddc06f1edf16e1f *R/modified_recursive_mc.R
 f7dbbcd561d9a62c355371a394530a15 *R/non_recursive_mc.R
-a59d3eb894fd4ff4575baa06e208a387 *R/prep.R
+b7ddac4c87ac47369e8d7a9d50206a53 *R/prep.R
 ae39c37cd9808331b1d4e5e42cfca95a *R/read_data.R
 3f6d7c38aac3017142ecf6c91bc91f66 *R/stroopdata.R
 87ddedb9e990f53ae79a4526ed47585d *R/sysdata.rda
