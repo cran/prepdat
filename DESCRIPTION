@@ -1,6 +1,6 @@
 Package: prepdat
 Title: Preparing Experimental Data for Statistical Analysis
-Version: 1.0.6
+Version: 1.0.7
 Authors@R: c(
     person("Ayala S.", "Allon", email = "ayalaallon@gmail.com", role = c("aut", "cre")),
     person("Roy", "Luria", role = "aut"),
@@ -41,11 +41,11 @@ Imports: dplyr (>= 0.4.2), reshape2 (>= 1.4.1), psych(>= 1.5.4)
 Suggests: knitr, testthat
 RoxygenNote: 5.0.1
 NeedsCompilation: no
-Packaged: 2016-02-28 15:52:11 UTC; user
+Packaged: 2016-03-02 09:05:13 UTC; user
 Author: Ayala S. Allon [aut, cre],
   Roy Luria [aut],
   James Grange [ctb],
   Nachshon Meiran [ctb]
 Maintainer: Ayala S. Allon <ayalaallon@gmail.com>
 Repository: CRAN
-Date/Publication: 2016-02-28 16:57:52
+Date/Publication: 2016-03-02 12:15:50
